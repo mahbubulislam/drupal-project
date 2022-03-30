@@ -26,3 +26,5 @@ All notable changes specific to pantheon-upstreams/drupal-project are noted here
 - Remove install check and MariaDB minimum version patches. (#3)
 
 [The associated milestone in GitHub](https://github.com/pantheon-systems/drupal-project/milestone/1?closed=1) provides detailed information about all changes in this update.
+
+
